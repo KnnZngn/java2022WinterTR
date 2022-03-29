@@ -15,5 +15,8 @@ public class C01_ForEachLoop {
              ) {
             System.out.print(each + " ");
         }
+        // avantaji : index, baslangic degeri, bitis degeri gibi detaylarlarla
+        // ugrasmamiza gerek kalmadan colections'dan tum elementleri bize getirir
+        // dezavantaji : index'e bagli bir islem yapamayiz
     }
 }
